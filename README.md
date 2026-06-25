@@ -56,16 +56,15 @@ Educational Android application inspired by modern learning platforms, providing
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasinMoridi&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YasinMoridi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasinMoridi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinMoridi&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasinMoridi&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YasinMoridi&theme=tokyonight" />
 </p>
 
 ---
