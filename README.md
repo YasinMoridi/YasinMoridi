@@ -83,6 +83,6 @@ Educational Android application inspired by modern learning platforms, providing
 ### 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/yasin-moridi](http://www.linkedin.com/in/yasin-moridi)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [your-email@example.com](yasinmoridi1384@gmail.com)
 
 ⭐ Feel free to explore my repositories and don't forget to leave a star if you find something useful!
