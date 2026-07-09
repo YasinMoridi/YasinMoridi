@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yasin Moridi
 
-### 🚀 Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform | IoT
+### 🚀 Android Developer | Kotlin | Jetpack Compose | KMP | IoT
 
 Android Developer with 6+ years of programming experience, specializing in Kotlin, Jetpack Compose, Clean Architecture, and modern mobile solutions.
 
