@@ -40,19 +40,50 @@ I enjoy transforming ideas into real products using modern Android technologies 
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-#### 🚗 Smart Parking IoT Platform
+### ✂️ ComposeCropper (Published Library)
+An open-source image cropping library for Jetpack Compose, providing customizable crop shapes, aspect ratios, and smooth multi-touch interactions.
 
-An intelligent parking management platform combining Android, IoT devices, and cloud services to monitor parking spaces, manage vehicle access, and provide real-time parking statistics.
+Built with modern Compose principles, featuring pinch-to-zoom, pan gestures, double-tap zoom, resizable crop overlays, and a clean state-driven API for easy integration into Android applications.
 
-#### 🛒 Online Shop
+🔗 [GitHub Repository](https://github.com/YasinMoridi/ComposeCropper)
 
-Modern e-commerce application built entirely with Jetpack Compose, featuring MVVM architecture, Room database, Hilt dependency injection, and a clean scalable structure.
+---
 
-#### 🎓 Daneshjooyar
+### 🎮 MiniVerse-KMP
+A cross-platform gaming hub built with Kotlin Multiplatform and Compose Multiplatform, sharing a single codebase across Android, iOS, Desktop, and Web.
 
-Educational Android application inspired by modern learning platforms, providing a smooth and interactive user experience with modern Android development practices.
+Features a modern Material 3 interface, multiplayer player selection, multilingual support, responsive navigation, and a scalable architecture powered by Koin, Ktor, Kotlin Coroutines, and Kotlinx Serialization.
+
+🔗 [GitHub Repository](https://github.com/YasinMoridi/MiniVerse-KMP)
+
+---
+
+### 📚 Dex Reader (Open Source Contribution)
+A modern manga reader application developed collaboratively with international contributors using Jetpack Compose, MVVM, and Clean Architecture.
+
+Contributed multiple merged pull requests including UI improvements, statistics features, bug fixes, and documentation enhancements while working with MangaDex API, Firebase, Room Database, Hilt, and Compose Navigation.
+
+🔗 [GitHub Repository](https://github.com/decoutkhanqindev/DexReader)
+
+---
+
+### 🚗 Smart Parking IoT Platform
+An intelligent IoT-based parking management system combining Android, embedded systems, and real-time communication.
+
+Integrates AVR microcontrollers with an Android Jetpack Compose application through UART communication, Python bridge services, and TCP sockets for live parking monitoring, occupancy tracking, and gate control.
+
+🔗 [GitHub Repository](https://github.com/YasinMoridi/Smart-Parking-IoT-Platform)
+
+---
+
+### 🛒 DigiKala Clone
+A modern e-commerce Android application built with Jetpack Compose, MVVM, and Clean Architecture.
+
+Includes product browsing, Paging 3 integration, reactive state management with Kotlin Flow, shopping cart functionality, localization, and payment workflow using modern Android development practices.
+
+🔗 [GitHub Repository](https://github.com/YasinMoridi/DigiKalaClone)
 
 ---
 
