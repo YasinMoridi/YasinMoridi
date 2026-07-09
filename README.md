@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Yasin Moridi
 
-### 🚀 Android Developer | Kotlin Enthusiast | IoT & Mobile Solutions
+### 🚀 Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform | IoT
 
-Passionate Android Developer with 6+ years of programming experience, focused on building modern, scalable, and user-friendly mobile applications.
+Android Developer with 6+ years of programming experience, specializing in Kotlin, Jetpack Compose, Clean Architecture, and modern mobile solutions.
 
-I enjoy transforming ideas into real products using modern Android technologies and clean architecture principles. Alongside mobile development, I also work on IoT-based solutions and embedded systems projects.
+Passionate about building scalable applications, exploring Kotlin Multiplatform, contributing to open-source projects, and creating IoT-connected mobile experiences.
 
 ---
 
@@ -15,19 +15,26 @@ I enjoy transforming ideas into real products using modern Android technologies 
 * Kotlin
 * Jetpack Compose
 * MVVM Architecture
+* Clean Architecture
 * Hilt (Dependency Injection)
-* Room Database
 * Coroutines & Flow
 * Navigation Compose
 * Retrofit
 * Coil / Glide
 
-#### Backend & Database
+#### Data & Backend
 
 * Firebase
 * REST APIs
 * SQLite
-* Room
+* Room Database
+
+#### Tools & DevOps
+
+* Git & GitHub
+* CI/CD
+* Gradle
+* GitHub Actions
 
 #### Embedded & IoT
 
@@ -35,53 +42,57 @@ I enjoy transforming ideas into real products using modern Android technologies 
 * ATmega16 / ATmega32
 * C Programming
 * Proteus Simulation
-* Smart Parking Systems
-* IoT Platforms
+* UART Communication
+* MQTT
+* IoT Systems
 
 ---
 
 ## 🌟 Featured Projects
 
 ### ✂️ ComposeCropper (Published Library)
-An open-source image cropping library for Jetpack Compose, providing customizable crop shapes, aspect ratios, and smooth multi-touch interactions.
 
-Built with modern Compose principles, featuring pinch-to-zoom, pan gestures, double-tap zoom, resizable crop overlays, and a clean state-driven API for easy integration into Android applications.
+Open-source Jetpack Compose image cropping library published for Android developers, featuring customizable crop shapes, aspect ratios, and smooth gesture-based interactions.
 
 🔗 [GitHub Repository](https://github.com/YasinMoridi/ComposeCropper)
 
 ---
 
 ### 🎮 MiniVerse-KMP
-A cross-platform gaming hub built with Kotlin Multiplatform and Compose Multiplatform, sharing a single codebase across Android, iOS, Desktop, and Web.
 
-Features a modern Material 3 interface, multiplayer player selection, multilingual support, responsive navigation, and a scalable architecture powered by Koin, Ktor, Kotlin Coroutines, and Kotlinx Serialization.
+Cross-platform gaming hub built with Kotlin Multiplatform and Compose Multiplatform, sharing code across Android, iOS, Desktop, and Web.
+
+Built with Material 3, Koin, Ktor, Kotlin Coroutines, and Kotlinx Serialization.
 
 🔗 [GitHub Repository](https://github.com/YasinMoridi/MiniVerse-KMP)
 
 ---
 
 ### 📚 Dex Reader (Open Source Contribution)
-A modern manga reader application developed collaboratively with international contributors using Jetpack Compose, MVVM, and Clean Architecture.
 
-Contributed multiple merged pull requests including UI improvements, statistics features, bug fixes, and documentation enhancements while working with MangaDex API, Firebase, Room Database, Hilt, and Compose Navigation.
+Modern manga reader application built with Jetpack Compose and Clean Architecture.
+
+Contributed to an international open-source project through multiple merged pull requests, improving UI, statistics, bug fixes, and documentation.
 
 🔗 [GitHub Repository](https://github.com/decoutkhanqindev/DexReader)
 
 ---
 
 ### 🚗 Smart Parking IoT Platform
-An intelligent IoT-based parking management system combining Android, embedded systems, and real-time communication.
 
-Integrates AVR microcontrollers with an Android Jetpack Compose application through UART communication, Python bridge services, and TCP sockets for live parking monitoring, occupancy tracking, and gate control.
+IoT-based parking management system combining Android, embedded systems, and real-time communication.
+
+Integrates AVR microcontrollers, Python bridge services, UART, and TCP communication for live parking monitoring and gate control.
 
 🔗 [GitHub Repository](https://github.com/YasinMoridi/Smart-Parking-IoT-Platform)
 
 ---
 
 ### 🛒 DigiKala Clone
-A modern e-commerce Android application built with Jetpack Compose, MVVM, and Clean Architecture.
 
-Includes product browsing, Paging 3 integration, reactive state management with Kotlin Flow, shopping cart functionality, localization, and payment workflow using modern Android development practices.
+Modern e-commerce Android application built with Jetpack Compose, MVVM, and Clean Architecture.
+
+Includes Paging 3, Kotlin Flow, Room Database, Hilt, localization, and payment integration.
 
 🔗 [GitHub Repository](https://github.com/YasinMoridi/DigiKalaClone)
 
@@ -104,6 +115,7 @@ Includes product browsing, Paging 3 integration, reactive state management with 
 
 * Advanced Android Development
 * Jetpack Compose UI/UX
+* Kotlin Multiplatform Development
 * Clean Architecture
 * IoT-Based Mobile Solutions
 * Open Source Contributions
@@ -112,7 +124,7 @@ Includes product browsing, Paging 3 integration, reactive state management with 
 
 ### 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/yasin-moridi](http://www.linkedin.com/in/yasin-moridi)
-* Email: [yasinmoridi1384@gmail.com](yasinmoridi1384@gmail.com)
+* LinkedIn: [linkedin.com/in/yasin-moridi](https://www.linkedin.com/in/yasin-moridi)
+* Email: [yasinmoridi1384@gmail.com](mailto:yasinmoridi1384@gmail.com)
 
 ⭐ Feel free to explore my repositories and don't forget to leave a star if you find something useful!
